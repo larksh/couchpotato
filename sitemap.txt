@@ -1,4 +1,5 @@
 https://larksh.github.io/couchpotato/about/index.html
+https://larksh.github.io/couchpotato/series/index.html
 https://larksh.github.io/couchpotato/2023/02/21/advertising/
 https://larksh.github.io/couchpotato/2023/02/21/business/
 https://larksh.github.io/couchpotato/2023/02/21/music/
@@ -11,6 +12,6 @@ https://larksh.github.io/couchpotato/tags/marketing/
 https://larksh.github.io/couchpotato/tags/sales/
 https://larksh.github.io/couchpotato/tags/music/
 https://larksh.github.io/couchpotato/categories/marketing/
-https://larksh.github.io/couchpotato/categories/marketing/management/
-https://larksh.github.io/couchpotato/categories/music/
 https://larksh.github.io/couchpotato/categories/marketing/ielts-topics/
+https://larksh.github.io/couchpotato/categories/music/
+https://larksh.github.io/couchpotato/categories/marketing/management/

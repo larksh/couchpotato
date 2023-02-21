@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://larksh.github.io/couchpotato/series/index.html</loc>
+    
+    <lastmod>2023-02-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://larksh.github.io/couchpotato/2023/02/21/advertising/</loc>
     
     <lastmod>2023-02-21</lastmod>
@@ -113,7 +122,7 @@
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/categories/marketing/management/</loc>
+    <loc>https://larksh.github.io/couchpotato/categories/marketing/ielts-topics/</loc>
     <lastmod>2023-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -127,7 +136,7 @@
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/categories/marketing/ielts-topics/</loc>
+    <loc>https://larksh.github.io/couchpotato/categories/marketing/management/</loc>
     <lastmod>2023-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
