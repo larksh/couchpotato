@@ -51,7 +51,6 @@
   <noscript>
     <link rel="stylesheet" href="/couchpotato/css/noscript.css">
   </noscript>
-<link rel="alternate" href="/couchpotato/atom.xml" title="Couch Potato" type="application/atom+xml">
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
@@ -321,4 +320,20 @@
 
 
 </body>
+</html>
+
+<html>
+  <head>
+
+    <!-- ... -->
+
+    <link rel="alternate" type="application/rss+xml" title="<%= config.title %>" href="<%= full_url_for(`/rss.xml}`) %>" />
+    <link rel="alternate" type="application/atom+xml" title="<%= config.title %>" href="<%= full_url_for(`/atom.xml`) %>" />
+    <link rel="alternate" type="application/json" title="<%= config.title %>" href="<%= full_url_for(`/feed.json`) %>" />
+  </head>
+  <body>
+
+    <!-- ... -->
+
+  </body>
 </html>
