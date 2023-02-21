@@ -5,10 +5,18 @@
     "home_page_url": "https://larksh.github.io/couchpotato",
     "items": [
         {
-            "id": "https://larksh.github.io/couchpotato/2023/02/21/tags/",
-            "url": "https://larksh.github.io/couchpotato/2023/02/21/tags/",
-            "title": "tags",
-            "date_published": "2023-02-21T12:56:06.000Z",
+            "id": "https://larksh.github.io/couchpotato/2023/02/21/category/",
+            "url": "https://larksh.github.io/couchpotato/2023/02/21/category/",
+            "title": "category",
+            "date_published": "2023-02-21T13:18:43.000Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
+            "id": "https://larksh.github.io/couchpotato/2023/02/21/tag/",
+            "url": "https://larksh.github.io/couchpotato/2023/02/21/tag/",
+            "title": "tag",
+            "date_published": "2023-02-21T13:18:23.000Z",
             "content_html": "",
             "tags": []
         },
