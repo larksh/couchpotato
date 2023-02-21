@@ -4,7 +4,6 @@
     <title>Couch Potato</title>
     <link href="https://larksh.github.io/couchpotato" />
     <updated>2023-02-21T12:56:06.000Z</updated>
-    <category term="sales" />
     <entry>
         <id>https://larksh.github.io/couchpotato/2023/02/21/tags/</id>
         <title>tags</title>
@@ -45,7 +44,6 @@
         <title>advertising</title>
         <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/21/advertising/"/>
         <content type="html">&lt;h1 id=&#34;advertising&#34;&gt;&lt;a href=&#34;#advertising&#34; class=&#34;headerlink&#34; title=&#34;advertising&#34;&gt;&lt;/a&gt;advertising&lt;/h1&gt;&lt;h2 id=&#34;sales&#34;&gt;&lt;a href=&#34;#sales&#34; class=&#34;headerlink&#34; title=&#34;sales&#34;&gt;&lt;/a&gt;sales&lt;/h2&gt;</content>
-        <category term="sales" />
         <updated>2023-02-20T22:33:34.000Z</updated>
     </entry>
 </feed>
