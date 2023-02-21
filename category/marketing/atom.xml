@@ -3,16 +3,27 @@
     <id>https://larksh.github.io/couchpotato</id>
     <title>Couch Potato • Posts by &#34;marketing&#34; category</title>
     <link href="https://larksh.github.io/couchpotato" />
-    <updated>2023-02-20T22:33:34.000Z</updated>
-    <category term="marketing;sales" />
+    <updated>2023-02-21T08:36:31.000Z</updated>
+    <category term="marketing" />
+    <category term="sales" />
     <category term="music" />
+    <entry>
+        <id>https://larksh.github.io/couchpotato/2023/02/21/business/</id>
+        <title>small business</title>
+        <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/21/business/"/>
+        <content type="html"></content>
+        <category term="marketing" />
+        <category term="sales" />
+        <updated>2023-02-21T08:36:31.000Z</updated>
+    </entry>
     <entry>
         <id>https://larksh.github.io/couchpotato/2023/02/21/advertising/</id>
         <title>advertising</title>
         <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/21/advertising/"/>
         <content type="html">&lt;h1 id=&#34;advertising&#34;&gt;&lt;a href=&#34;#advertising&#34; class=&#34;headerlink&#34; title=&#34;advertising&#34;&gt;&lt;/a&gt;advertising&lt;/h1&gt;&lt;h2 id=&#34;sales&#34;&gt;&lt;a href=&#34;#sales&#34; class=&#34;headerlink&#34; title=&#34;sales&#34;&gt;&lt;/a&gt;sales&lt;/h2&gt;&lt;p&gt;business&lt;/p&gt;
 </content>
-        <category term="marketing;sales" />
+        <category term="marketing" />
+        <category term="sales" />
         <updated>2023-02-20T22:33:34.000Z</updated>
     </entry>
 </feed>
