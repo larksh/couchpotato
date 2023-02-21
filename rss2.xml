@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Couch Potato</title>
+    <link>https://larksh.github.io/couchpotato/</link>
+    
+    <image>
+      <url>https://larksh.github.io/couchpotato/icon.png</url>
+      <title>Couch Potato</title>
+      <link>https://larksh.github.io/couchpotato/</link>
+    </image>
+    
+    <atom:link href="https://larksh.github.io/couchpotato/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Tue, 21 Feb 2023 13:48:25 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>small business</title>
+      <link>https://larksh.github.io/couchpotato/2023/02/21/business/</link>
+      <guid>https://larksh.github.io/couchpotato/2023/02/21/business/</guid>
+      <pubDate>Tue, 21 Feb 2023 08:36:31 GMT</pubDate>
+      
+      
+      
+      
+      <category domain="https://larksh.github.io/couchpotato/categories/marketing/">marketing</category>
+      
+      <category domain="https://larksh.github.io/couchpotato/categories/marketing/management/">management</category>
+      
+      
+      <category domain="https://larksh.github.io/couchpotato/tags/marketing/">marketing</category>
+      
+      <category domain="https://larksh.github.io/couchpotato/tags/sales/">sales</category>
+      
+      
+      <comments>https://larksh.github.io/couchpotato/2023/02/21/business/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://larksh.github.io/couchpotato/2023/02/21/music/</link>
+      <guid>https://larksh.github.io/couchpotato/2023/02/21/music/</guid>
+      <pubDate>Tue, 21 Feb 2023 08:32:16 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;symphony&lt;/p&gt;
+</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://larksh.github.io/couchpotato/categories/music/">music</category>
+      
+      
+      <category domain="https://larksh.github.io/couchpotato/tags/music/">music</category>
+      
+      
+      <comments>https://larksh.github.io/couchpotato/2023/02/21/music/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://larksh.github.io/couchpotato/2023/02/21/education/</link>
+      <guid>https://larksh.github.io/couchpotato/2023/02/21/education/</guid>
+      <pubDate>Tue, 21 Feb 2023 08:24:45 GMT</pubDate>
+      
+      
+      
+      
+      
+      
+      <comments>https://larksh.github.io/couchpotato/2023/02/21/education/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>environment</title>
+      <link>https://larksh.github.io/couchpotato/2023/02/21/environment/</link>
+      <guid>https://larksh.github.io/couchpotato/2023/02/21/environment/</guid>
+      <pubDate>Mon, 20 Feb 2023 23:02:12 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;emissions&lt;/p&gt;
+</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://larksh.github.io/couchpotato/2023/02/21/environment/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>advertising</title>
+      <link>https://larksh.github.io/couchpotato/2023/02/21/advertising/</link>
+      <guid>https://larksh.github.io/couchpotato/2023/02/21/advertising/</guid>
+      <pubDate>Mon, 20 Feb 2023 22:33:34 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;advertising&quot;&gt;&lt;a href=&quot;#advertising&quot; class=&quot;headerlink&quot; title=&quot;advertising&quot;&gt;&lt;/a&gt;advertising&lt;/h1&gt;&lt;h2 id=&quot;sales&quot;&gt;&lt;a href=&quot;#sales&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://larksh.github.io/couchpotato/categories/marketing/">marketing</category>
+      
+      
+      <category domain="https://larksh.github.io/couchpotato/tags/marketing/">marketing</category>
+      
+      <category domain="https://larksh.github.io/couchpotato/tags/sales/">sales</category>
+      
+      
+      <comments>https://larksh.github.io/couchpotato/2023/02/21/advertising/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
