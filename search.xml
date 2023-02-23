@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Small Business</title>
+    <url>/couchpotato/2023/02/21/business/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>marketing</category>
+        <category>management</category>
+        <category>ielts topics</category>
+      </categories>
+      <tags>
+        <tag>marketing</tag>
+        <tag>sales</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Advertising</title>
     <url>/couchpotato/2023/02/21/advertising/</url>
     <content><![CDATA[<h4 id="IDEAS"><a href="#IDEAS" class="headerlink" title="IDEAS"></a>IDEAS</h4><h4 id="Positives-of-Advertising"><a href="#Positives-of-Advertising" class="headerlink" title="Positives of Advertising"></a><strong>Positives of Advertising</strong></h4><p>Advertising is a key part of modern business<br>Companies need to tell customers about their products<br>Advertisments inform us about the choices we have<br>Advertising is a creative industry that employs many people<br>Without advertising we should have less choice<br>Without advertising there would be higher unemployment<br>People enjoy adverts</p>
@@ -26,16 +40,16 @@
       </tags>
   </entry>
   <entry>
-    <title>Small Business</title>
-    <url>/couchpotato/2023/02/21/business/</url>
-    <content><![CDATA[]]></content>
+    <title>music</title>
+    <url>/couchpotato/2023/02/21/music/</url>
+    <content><![CDATA[<p>Classical music<br>symphony</p>
+]]></content>
       <categories>
-        <category>marketing</category>
-        <category>management</category>
+        <category>music</category>
+        <category>ielts topics</category>
       </categories>
       <tags>
-        <tag>marketing</tag>
-        <tag>sales</tag>
+        <tag>music</tag>
       </tags>
   </entry>
   <entry>
@@ -154,18 +168,5 @@
       <categories>
         <category>ielts topics</category>
       </categories>
-  </entry>
-  <entry>
-    <title>music</title>
-    <url>/couchpotato/2023/02/21/music/</url>
-    <content><![CDATA[<p>Classical music<br>symphony</p>
-]]></content>
-      <categories>
-        <category>music</category>
-        <category>ielts topics</category>
-      </categories>
-      <tags>
-        <tag>music</tag>
-      </tags>
   </entry>
 </search>
