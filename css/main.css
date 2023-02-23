@@ -1662,6 +1662,14 @@ pre code {
     text-align: justify;
   }
 }
+.post-body p a {
+  color: #0593d3;
+  border-bottom: none;
+}
+.post-body p a:hover {
+  color: #fc6423;
+  text-decoration: underline;
+}
 .post-body h1 .header-anchor,
 .post-body h2 .header-anchor,
 .post-body h3 .header-anchor,
@@ -1724,14 +1732,6 @@ pre code {
 .post-body h5:hover .headerlink:hover,
 .post-body h6:hover .headerlink:hover {
   opacity: 1;
-}
-.post-body .post-body p a {
-  color: #0593d3;
-  border-bottom: none;
-}
-.post-body .post-body p a:hover {
-  color: #fc6423;
-  text-decoration: underline;
 }
 .post-body .exturl .fa {
   font-size: 0.875em;
