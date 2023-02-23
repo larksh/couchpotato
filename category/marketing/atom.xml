@@ -3,19 +3,11 @@
     <id>https://larksh.github.io/couchpotato</id>
     <title>Couch Potato • Posts by &#34;marketing&#34; category</title>
     <link href="https://larksh.github.io/couchpotato" />
-    <updated>2023-02-21T08:36:31.000Z</updated>
+    <updated>2023-02-20T22:33:34.000Z</updated>
     <category term="marketing" />
     <category term="sales" />
+    <category term="ielts topics" />
     <category term="music" />
-    <entry>
-        <id>https://larksh.github.io/couchpotato/2023/02/21/business/</id>
-        <title>Small Business</title>
-        <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/21/business/"/>
-        <content type="html"></content>
-        <category term="marketing" />
-        <category term="sales" />
-        <updated>2023-02-21T08:36:31.000Z</updated>
-    </entry>
     <entry>
         <id>https://larksh.github.io/couchpotato/2023/02/21/advertising/</id>
         <title>Advertising</title>
@@ -35,6 +27,7 @@
 </content>
         <category term="marketing" />
         <category term="sales" />
+        <category term="ielts topics" />
         <updated>2023-02-20T22:33:34.000Z</updated>
     </entry>
 </feed>
