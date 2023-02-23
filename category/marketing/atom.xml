@@ -4,10 +4,10 @@
     <title>Couch Potato • Posts by &#34;marketing&#34; category</title>
     <link href="https://larksh.github.io/couchpotato" />
     <updated>2023-02-20T22:33:34.000Z</updated>
-    <category term="marketing" />
-    <category term="sales" />
     <category term="ielts topics" />
     <category term="music" />
+    <category term="marketing" />
+    <category term="sales" />
     <entry>
         <id>https://larksh.github.io/couchpotato/2023/02/21/advertising/</id>
         <title>Advertising</title>
@@ -25,9 +25,9 @@
 &lt;li&gt;&lt;a href=&#34;https://www.withinlink.com/zh/insight/%E8%B4%9D%E6%9C%9B%E5%BD%95/&#34;&gt;贝望录&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
+        <category term="ielts topics" />
         <category term="marketing" />
         <category term="sales" />
-        <category term="ielts topics" />
         <updated>2023-02-20T22:33:34.000Z</updated>
     </entry>
 </feed>
