@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/2023/02/21/business/</loc>
-    
-    <lastmod>2023-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://larksh.github.io/couchpotato/2023/02/22/environment/</loc>
     
     <lastmod>2023-02-23</lastmod>
@@ -83,20 +74,6 @@
 
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/tags/marketing/</loc>
-    <lastmod>2023-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://larksh.github.io/couchpotato/tags/sales/</loc>
-    <lastmod>2023-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://larksh.github.io/couchpotato/tags/ielts-topics/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,24 +87,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://larksh.github.io/couchpotato/tags/marketing/</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://larksh.github.io/couchpotato/tags/sales/</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/categories/marketing/</loc>
-    <lastmod>2023-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://larksh.github.io/couchpotato/categories/management/</loc>
-    <lastmod>2023-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://larksh.github.io/couchpotato/categories/music/</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://larksh.github.io/couchpotato/categories/marketing/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
