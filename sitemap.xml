@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/2023/02/21/music/</loc>
+    <loc>https://larksh.github.io/couchpotato/2023/02/21/business/</loc>
     
     <lastmod>2023-02-23</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/2023/02/21/business/</loc>
+    <loc>https://larksh.github.io/couchpotato/2023/02/21/music/</loc>
     
     <lastmod>2023-02-23</lastmod>
     
@@ -83,13 +83,6 @@
 
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/tags/ielts-topics/</loc>
-    <lastmod>2023-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://larksh.github.io/couchpotato/tags/marketing/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,6 +91,13 @@
   
   <url>
     <loc>https://larksh.github.io/couchpotato/tags/sales/</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://larksh.github.io/couchpotato/tags/ielts-topics/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -113,6 +113,13 @@
 
   
   <url>
+    <loc>https://larksh.github.io/couchpotato/categories/marketing/</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://larksh.github.io/couchpotato/categories/management/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -121,13 +128,6 @@
   
   <url>
     <loc>https://larksh.github.io/couchpotato/categories/music/</loc>
-    <lastmod>2023-02-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://larksh.github.io/couchpotato/categories/marketing/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
