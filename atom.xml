@@ -136,17 +136,10 @@
         <id>https://larksh.github.io/couchpotato/2023/02/21/music/</id>
         <title>music</title>
         <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/21/music/"/>
-        <content type="html">&lt;p&gt;symphony&lt;/p&gt;
+        <content type="html">&lt;p&gt;Classical music&lt;br&gt;symphony&lt;/p&gt;
 </content>
         <category term="music" />
         <updated>2023-02-21T08:32:16.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://larksh.github.io/couchpotato/2023/02/21/education/</id>
-        <title>Education</title>
-        <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/21/education/"/>
-        <content type="html">&lt;h4 id=&#34;IDEAS&#34;&gt;&lt;a href=&#34;#IDEAS&#34; class=&#34;headerlink&#34; title=&#34;IDEAS&#34;&gt;&lt;/a&gt;IDEAS&lt;/h4&gt;</content>
-        <updated>2023-02-21T08:24:45.000Z</updated>
     </entry>
     <entry>
         <id>https://larksh.github.io/couchpotato/2023/02/21/advertising/</id>

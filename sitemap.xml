@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/about/index.html</loc>
+    <loc>https://larksh.github.io/couchpotato/2023/02/21/advertising/</loc>
     
     <lastmod>2023-02-23</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/2023/02/21/advertising/</loc>
+    <loc>https://larksh.github.io/couchpotato/2023/02/21/business/</loc>
     
     <lastmod>2023-02-23</lastmod>
     
@@ -31,25 +31,16 @@
   <url>
     <loc>https://larksh.github.io/couchpotato/2023/02/21/music/</loc>
     
-    <lastmod>2023-02-22</lastmod>
+    <lastmod>2023-02-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/2023/02/21/business/</loc>
+    <loc>https://larksh.github.io/couchpotato/about/index.html</loc>
     
-    <lastmod>2023-02-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://larksh.github.io/couchpotato/2023/02/21/education/</loc>
-    
-    <lastmod>2023-02-22</lastmod>
+    <lastmod>2023-02-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -115,14 +106,14 @@
 
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/categories/ielts-topics/</loc>
+    <loc>https://larksh.github.io/couchpotato/categories/marketing/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/categories/marketing/</loc>
+    <loc>https://larksh.github.io/couchpotato/categories/ielts-topics/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -143,14 +134,14 @@
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/categories/music/ielts-topics/</loc>
+    <loc>https://larksh.github.io/couchpotato/categories/marketing/management/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/categories/marketing/management/</loc>
+    <loc>https://larksh.github.io/couchpotato/categories/music/ielts-topics/</loc>
     <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
