@@ -4,15 +4,16 @@
     <title>Couch Potato • Posts by &#34;music&#34; category</title>
     <link href="https://larksh.github.io/couchpotato" />
     <updated>2023-02-21T08:32:16.000Z</updated>
-    <category term="music" />
     <category term="ielts topics" />
+    <category term="music" />
+    <category term="marketing" />
+    <category term="sales" />
     <entry>
         <id>https://larksh.github.io/couchpotato/2023/02/21/music/</id>
         <title>music</title>
         <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/21/music/"/>
         <content type="html"></content>
         <category term="music" />
-        <category term="ielts topics" />
         <updated>2023-02-21T08:32:16.000Z</updated>
     </entry>
 </feed>

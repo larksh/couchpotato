@@ -1,30 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://larksh.github.io/couchpotato</id>
-    <title>Couch Potato • Posts by &#34;ielts topics&#34; tag</title>
+    <title>Couch Potato • Posts by &#34;marketing&#34; category</title>
     <link href="https://larksh.github.io/couchpotato" />
-    <updated>2023-02-26T14:13:30.000Z</updated>
+    <updated>2023-02-20T22:33:34.000Z</updated>
     <category term="ielts topics" />
     <category term="music" />
     <category term="marketing" />
     <category term="sales" />
-    <entry>
-        <id>https://larksh.github.io/couchpotato/2023/02/26/Goverment%20and%20Society/</id>
-        <title>Government and Society</title>
-        <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/26/Goverment%20and%20Society/"/>
-        <content type="html"></content>
-        <category term="ielts topics" />
-        <updated>2023-02-26T14:13:30.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://larksh.github.io/couchpotato/2023/02/22/environment/</id>
-        <title>Environment</title>
-        <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/22/environment/"/>
-        <content type="html">&lt;h5 id=&#34;Potatoes&#34;&gt;&lt;a href=&#34;#Potatoes&#34; class=&#34;headerlink&#34; title=&#34;Potatoes&#34;&gt;&lt;/a&gt;&lt;strong&gt;Potatoes&lt;/strong&gt;&lt;/h5&gt;&lt;p&gt;&lt;a href=&#34;https://thinkinginenglish.blog/2023/02/22/210-what-is-greenwashing/&#34;&gt;210. What is Greenwashing? (English Vocabulary Lesson) – Thinking in English&lt;/a&gt;&lt;/p&gt;
-</content>
-        <category term="ielts topics" />
-        <updated>2023-02-22T03:02:12.000Z</updated>
-    </entry>
     <entry>
         <id>https://larksh.github.io/couchpotato/2023/02/21/advertising/</id>
         <title>Advertising</title>
