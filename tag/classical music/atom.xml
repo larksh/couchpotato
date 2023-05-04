@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://larksh.github.io/couchpotato</id>
-    <title>Wilderness Monsoon • Posts by &#34;music&#34; tag</title>
+    <title>Wilderness Monsoon • Posts by &#34;classical music&#34; tag</title>
     <link href="https://larksh.github.io/couchpotato" />
     <updated>2023-02-21T08:32:16.000Z</updated>
-    <category term="music" />
+    <category term="classical music" />
     <entry>
         <id>https://larksh.github.io/couchpotato/2023/02/21/music/</id>
-        <title>music</title>
+        <title>listening to music</title>
         <link rel="alternate" href="https://larksh.github.io/couchpotato/2023/02/21/music/"/>
         <content type="html"></content>
-        <category term="music" />
+        <category term="classical music" />
         <updated>2023-02-21T08:32:16.000Z</updated>
     </entry>
 </feed>

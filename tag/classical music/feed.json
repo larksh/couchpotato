@@ -1,17 +1,17 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Wilderness Monsoon • All posts by \"music\" tag",
+    "title": "Wilderness Monsoon • All posts by \"classical music\" tag",
     "description": "",
     "home_page_url": "https://larksh.github.io/couchpotato",
     "items": [
         {
             "id": "https://larksh.github.io/couchpotato/2023/02/21/music/",
             "url": "https://larksh.github.io/couchpotato/2023/02/21/music/",
-            "title": "music",
+            "title": "listening to music",
             "date_published": "2023-02-21T08:32:16.000Z",
             "content_html": "",
             "tags": [
-                "music"
+                "classical music"
             ]
         }
     ]

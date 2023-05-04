@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/about/index.html</loc>
+    <loc>https://larksh.github.io/couchpotato/2023/02/21/music/</loc>
     
-    <lastmod>2023-05-02</lastmod>
+    <lastmod>2023-05-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/2023/02/21/music/</loc>
+    <loc>https://larksh.github.io/couchpotato/about/index.html</loc>
     
-    <lastmod>2023-05-01</lastmod>
+    <lastmod>2023-05-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,7 +56,7 @@
 
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/tags/music/</loc>
+    <loc>https://larksh.github.io/couchpotato/tags/classical-music/</loc>
     <lastmod>2023-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
