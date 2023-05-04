@@ -14,7 +14,8 @@
             <link>https://larksh.github.io/couchpotato/2023/02/21/music/</link>
             <category>classical music</category>
             <pubDate>Tue, 21 Feb 2023 16:32:16 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ &lt;h3 id=&#34;test&#34;&gt;&lt;a href=&#34;#test&#34; class=&#34;headerlink&#34; title=&#34;test&#34;&gt;&lt;/a&gt;test&lt;/h3&gt;&lt;p&gt;test&lt;/p&gt;
+&lt;h3 id=&#34;1&#34;&gt;&lt;a href=&#34;#1&#34; class=&#34;headerlink&#34; title=&#34;1&#34;&gt;&lt;/a&gt;1&lt;/h3&gt; ]]></description>
         </item>
     </channel>
 </rss>
