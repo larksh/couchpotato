@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>listening to music</title>
-    <url>/couchpotato/2023/02/21/music/</url>
-    <content><![CDATA[<h3 id="test"><a href="#test" class="headerlink" title="test"></a>test</h3><p>test</p>
-<h3 id="1"><a href="#1" class="headerlink" title="1"></a>1</h3>]]></content>
+    <title>HR Zone和最大心率</title>
+    <url>/couchpotato/2023/05/06/heart%20rate/</url>
+    <content><![CDATA[<p>自从买了运动手表之后才算对心率和一些其他指标有了比较直观的认识，</p>
+<p><img src="/home/picture/1.png" alt="avatar"></p>
+]]></content>
       <categories>
-        <category>music</category>
+        <category>Health</category>
       </categories>
       <tags>
-        <tag>classical music</tag>
+        <tag>run</tag>
+        <tag>marathon</tag>
       </tags>
   </entry>
 </search>

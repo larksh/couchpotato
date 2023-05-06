@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/2023/02/21/music/</loc>
+    <loc>https://larksh.github.io/couchpotato/2023/05/06/heart%20rate/</loc>
     
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,15 +49,22 @@
 
   <url>
     <loc>https://larksh.github.io/couchpotato</loc>
-    <lastmod>2023-05-04</lastmod>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/tags/classical-music/</loc>
-    <lastmod>2023-05-04</lastmod>
+    <loc>https://larksh.github.io/couchpotato/tags/run/</loc>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://larksh.github.io/couchpotato/tags/marathon/</loc>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -65,8 +72,8 @@
 
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/categories/music/</loc>
-    <lastmod>2023-05-04</lastmod>
+    <loc>https://larksh.github.io/couchpotato/categories/Health/</loc>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
