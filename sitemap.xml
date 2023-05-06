@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/2023/05/06/heart%20rate/</loc>
+    <loc>https://larksh.github.io/couchpotato/2023/05/06/%E5%BE%92%E6%AD%A5%E4%B8%80%E5%B1%B1%E4%B8%A4%E5%8F%A4%E9%81%93/</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://larksh.github.io/couchpotato/2023/05/06/first%20half%20marathon/</loc>
     
     <lastmod>2023-05-06</lastmod>
     
@@ -56,6 +65,13 @@
 
   
   <url>
+    <loc>https://larksh.github.io/couchpotato/tags/hiking/</loc>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://larksh.github.io/couchpotato/tags/run/</loc>
     <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -72,7 +88,7 @@
 
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/categories/Health/</loc>
+    <loc>https://larksh.github.io/couchpotato/categories/Microadventures/</loc>
     <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
