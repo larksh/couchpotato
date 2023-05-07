@@ -65,6 +65,13 @@
 
   
   <url>
+    <loc>https://larksh.github.io/couchpotato/tags/hiking/</loc>
+    <lastmod>2023-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://larksh.github.io/couchpotato/tags/run/</loc>
     <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,13 +80,6 @@
   
   <url>
     <loc>https://larksh.github.io/couchpotato/tags/marathon/</loc>
-    <lastmod>2023-05-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://larksh.github.io/couchpotato/tags/hiking/</loc>
     <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
