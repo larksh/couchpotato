@@ -4,7 +4,7 @@
   <url>
     <loc>https://larksh.github.io/couchpotato/2023/11/28/%E8%B7%91%E6%AD%A5%E5%B2%94%E6%B0%94/</loc>
     
-    <lastmod>2023-11-27</lastmod>
+    <lastmod>2023-12-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,29 +67,29 @@
 
   <url>
     <loc>https://larksh.github.io/couchpotato</loc>
-    <lastmod>2023-12-04</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://larksh.github.io/couchpotato/tags/hiking/</loc>
-    <lastmod>2023-12-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://larksh.github.io/couchpotato/tags/run/</loc>
-    <lastmod>2023-12-04</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://larksh.github.io/couchpotato/tags/marathon/</loc>
-    <lastmod>2023-12-04</lastmod>
+    <lastmod>2024-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://larksh.github.io/couchpotato/tags/hiking/</loc>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -98,7 +98,7 @@
   
   <url>
     <loc>https://larksh.github.io/couchpotato/categories/Microadventures/</loc>
-    <lastmod>2023-12-04</lastmod>
+    <lastmod>2024-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
