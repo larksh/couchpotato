@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://larksh.github.io/couchpotato/2023/05/06/first%20half%20marathon/</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://larksh.github.io/couchpotato/series/index.html</loc>
     
     <lastmod>2023-02-21</lastmod>
@@ -46,6 +55,27 @@
   </url>
 
   
+  <url>
+    <loc>https://larksh.github.io/couchpotato/tags/run/</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://larksh.github.io/couchpotato/tags/marathon/</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://larksh.github.io/couchpotato/categories/Microadventures/</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
